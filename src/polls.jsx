@@ -13,7 +13,7 @@ class Polls extends Component {
     return (
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-          <Link className="navbar-brand">PollsApp</Link>
+          <a className="navbar-brand">PollsApp</a>
 
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
